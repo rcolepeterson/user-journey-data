@@ -1,0 +1,58 @@
+{
+  "type": "Enthusiast",
+  "profileThumbNailImage": "/TomThumbnail.png",
+  "model": "2006 328i",
+  "headerCarousel": [1, 2, 3],
+  "weeks": [
+    {
+      "weekAmount": "1",
+      "cards": [
+        {
+          "cardNumber": 1,
+          "cardType": "WebLink",
+          "eventType": "Industry",
+          "weeks": 1,
+          "stage": "Recognize Need",
+          "secondary": "No",
+          "experienceImpact": "Positive",
+          "experiencePoints": 4,
+          "header": "Read MotorTrend article",
+          "copy": [
+            "Driver receives DM",
+            "Subject: Release of 2021 5 Series",
+            "Result: Driver visits personalized BMW.com"
+          ],
+          "bulletCopy": null,
+          "quoteCopy": "\"No-one told me. I get that right now there may be delays but since no-one told me any different I thought I would have my car by now.\"",
+          "quoteCopySource": "3rd Party Data",
+          "source": "3rd Party Data",
+          "largeNumber": null,
+          "largeNumberText": null,
+          "weblinkURL": "https://www.motortrend.com/cars/bmw/x5/2020/2020-bmw-x5-m-first-drive-review/",
+          "weblinkHeader": "2020 BMW X5 M First Drive Review: Master of ...",
+          "weblinkCopy": "BMW builds a 5400-pound sports car shaped like an SUV called the X5 M. It is indeed fast, but is it worth its $106095 starting price?",
+          "weblinkThumbnail": "motortrend1.png",
+          "weblinkSource": "motortrend.com",
+          "Image": null,
+          "chartType": "MixBarChart",
+          "chartLegendTitle": "Brand vs Word-of-Mouth communication preference",
+          "chartData": [
+            { "name": "PrestigeSeekers", "manufacturer": 60, "customers": 68 },
+            { "name": "Enthusiasts", "manufacturer": 69, "customers": 64 },
+            { "name": "ComfortDrivers", "manufacturer": 49, "customers": 63 },
+            { "name": "FunctionalDrivers", "manufacturer": 43, "customers": 64 }
+          ],
+          "recommend": "Yes",
+          "recommendHeader": "This driver has shown interest in the 2020 X5",
+          "recommendBody": "Driver read MotorTrend article on 2020 X5 and shared on Twitter.",
+          "recommendHeader2": "EXPERIENCE RECOMMENDATION",
+          "recommendBody2": "Send driver an invitation to the 2020 X5 Instagram live product launch via email.",
+          "recommendPoints": 5,
+          "recommendRepurchase": 2,
+          "audienceSize": "22,816",
+          "totalScore": 53
+        }
+      ]
+    }
+  ]
+}
