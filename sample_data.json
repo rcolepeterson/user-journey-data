@@ -1,23 +1,23 @@
 {
+  "firstName": "Cole",
+  "lastInitial": "P",
   "segment": "Enthusiast",
-  "thumbNailImage": "/TomThumbnail.png",
+  "profileImage": "/TomThumbnail.png",
+  "county": "King",
   "city": "Seattle",
   "state": "WA",
-  "county": "king",
   "gender": "female",
   "age": "32",
-
   "sections": [
     {
       "title": "personal insights",
+      "source": "name of source goes here",
       "cards": [
         {
           "header": "Media Preferences",
           "cardType": "default",
           "copy": ["% of channels used in the past 120 days"],
-          "bulletCopy": null,
           "quoteCopy": null,
-          "quoteCopySource": null,
           "source": null,
           "largeNumber": null,
           "largeNumberText": null,
