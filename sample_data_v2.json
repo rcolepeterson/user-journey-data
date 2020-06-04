@@ -11,11 +11,12 @@
   "sections": [
     {
       "title": "personal insights",
-      "source": "Wunderman Identity Network",
+
       "cards": [
         {
           "header": "data biography",
           "cardType": "madlibs",
+          "source": "Wunderman Identity Network",
           "madlibs_text": [
             {
               "name": "Michael",
@@ -39,6 +40,7 @@
         {
           "header": "media preferences",
           "cardType": "mediaPreferences",
+          "source": "Wunderman Identity Network",
           "chartData": [
             {
               "name": "Email",
@@ -71,6 +73,7 @@
         {
           "header": "financial health",
           "cardType": "financialHealth",
+          "source": "Wunderman Identity Network",
           "chartData": [
             { "name": "Group A", "value": 73 },
             { "name": "Group B", "value": 27 }
@@ -81,6 +84,7 @@
         {
           "header": "psychographic clustering",
           "cardType": "clustering",
+          "source": "Wunderman Identity Network",
           "chartData": [
             {
               "subject": "Watchability",
