@@ -69,7 +69,7 @@
           "copy": "Communication Preference in % - Job Loss Segment, Austin, 45 - 59 Years"
         },
         {
-          "header": "Financial Health",
+          "header": "financial health",
           "cardType": "financialHealth",
           "chartData": [
             { "name": "Group A", "value": 73 },
@@ -79,7 +79,7 @@
           "copy": "Aggregate score for financial optimism from multiple data points."
         },
         {
-          "header": "psychographuc clustering",
+          "header": "psychographic clustering",
           "cardType": "clustering",
           "chartData": [
             {
