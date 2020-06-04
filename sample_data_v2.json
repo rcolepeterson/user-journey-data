@@ -67,6 +67,16 @@
           ],
           "chartType": "MixBarChart",
           "copy": "Communication Preference in % - Job Loss Segment, Austin, 45 - 59 Years"
+        },
+        {
+          "header": "Financial Health",
+          "cardType": "financialHealth",
+          "chartData": [
+            { "name": "Group A", "value": 73 },
+            { "name": "Group B", "value": 27 }
+          ],
+          "chartType": "straightAnglePieChart",
+          "copy": "Aggregate score for financial optimism from multiple data points."
         }
       ]
     }

@@ -1,42 +1,72 @@
 {
-  "firstName": "Cole",
-  "lastInitial": "P",
-  "segment": "Enthusiast",
-  "profileImage": "/TomThumbnail.png",
-  "county": "King",
-  "city": "Seattle",
-  "state": "WA",
-  "gender": "female",
-  "age": "32",
+  "firstName": "Michael",
+  "lastInitial": "C",
+  "segment": "Job Loss",
+  "profileImage": "/Thumbnail.png",
+  "city": "Austin",
+  "county": "Caldwell",
+  "state": "TX",
+  "gender": "male",
+  "age": 46,
   "sections": [
     {
       "title": "personal insights",
-      "source": "name of source goes here",
+      "source": "Wunderman Identity Network",
       "cards": [
         {
-          "header": "media preferences",
-          "cardType": "default",
-          "copy": ["% of channels used in the past 120 days"],
-          "quoteCopy": null,
-          "source": null,
-          "largeNumber": null,
-          "largeNumberText": null,
-          "weblinkURL": null,
-          "weblinkHeader": null,
-          "weblinkCopy": null,
-          "weblinkThumbnail": null,
-          "weblinkSource": null,
-          "image": null,
-          "chartType": "MixBarChart",
-          "chartLegendTitle": null,
+          "header": "Data Biography",
+          "cardType": "madlibs",
+          "madlibs_text": [
+            {
+              "name": "Michael",
+              "segmenttitle": "recently unemployed",
+              "gender": "man",
+              "age": 46,
+              "marital_status": "single",
+              "children": "no children",
+              "dwelling": "a single-family house",
+              "car": "Volvo car",
+              "employment": "seeking a job",
+              "occupation": "sales/service",
+              "hist_income": "$150k-$199.9k",
+              "assets": "$75,000-$99,999",
+              "brand1": "Clif Bar",
+              "brand2": "Lee",
+              "brand3": "Motul"
+            }
+          ]
+        },
+        {
+          "header": "Media Preferences",
+          "cardType": "mediaPreferences",
           "chartData": [
-            { "name": "Text", "value": 60 },
-            { "name": "YouTube", "value": 69 },
-            { "name": "Broadcast", "value": 49 },
-            { "name": "Social", "value": 43 },
-            { "name": "Podcast", "value": 43 }
+            {
+              "name": "Email",
+              "value": 0.6046632124352331
+            },
+            {
+              "name": "Web",
+              "value": 0.2896373056994819
+            },
+            {
+              "name": "Cell",
+              "value": 0.057512953367875645
+            },
+            {
+              "name": "Phone",
+              "value": 0.022797927461139896
+            },
+            {
+              "name": "Text",
+              "value": 0.016580310880829015
+            },
+            {
+              "name": "Mail",
+              "value": 0.008808290155440414
+            }
           ],
-          "hi": "Ilinca"
+          "chartType": "MixBarChart",
+          "copy": "Communication Preference in % - Job Loss Segment, Austin, 45 - 59 Years"
         }
       ]
     }
