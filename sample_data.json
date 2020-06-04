@@ -14,7 +14,7 @@
       "source": "name of source goes here",
       "cards": [
         {
-          "header": "Media Preferences",
+          "header": "media preferences",
           "cardType": "default",
           "copy": ["% of channels used in the past 120 days"],
           "quoteCopy": null,
@@ -35,7 +35,8 @@
             { "name": "Broadcast", "value": 49 },
             { "name": "Social", "value": 43 },
             { "name": "Podcast", "value": 43 }
-          ]
+          ],
+          "hi": "Ilinca"
         }
       ]
     }
