@@ -1,13 +1,13 @@
 {
-  "firstName": "Robert",
-  "lastInitial": "S",
+  "firstName": "Michael",
+  "lastInitial": "C",
   "segment": "Job Loss",
   "profileImage": "/Thumbnail.png",
   "city": "Austin",
-  "county": "Hays",
+  "county": "Caldwell",
   "state": "TX",
   "gender": "male",
-  "age": 56,
+  "age": 46,
   "sections": [
     {
       "title": "personal insights",
@@ -18,21 +18,21 @@
           "cardType": "madlibs",
           "madlibs_text": [
             {
-              "name": "Robert",
+              "name": "Michael",
               "segmenttitle": "recently unemployed",
               "gender": "man",
-              "age": 56,
+              "age": 46,
               "marital_status": "single",
-              "children": "three children",
+              "children": "no children",
               "dwelling": "a single-family house",
-              "car": "Honda car",
+              "car": "Volvo car",
               "employment": "seeking a job",
-              "occupation": "blue collar",
-              "hist_income": "$75k-$99.9k",
-              "assets": "$100,000-$249,999",
-              "brand1": "Swatch",
-              "brand2": "Shimano",
-              "brand3": "Quiksilver"
+              "occupation": "sales/service",
+              "hist_income": "$150k-$199.9k",
+              "assets": "$75,000-$99,999",
+              "brand1": "Clif Bar",
+              "brand2": "Lee",
+              "brand3": "Motul"
             }
           ]
         },
