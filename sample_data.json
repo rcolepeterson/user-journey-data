@@ -1,0 +1,43 @@
+{
+  "segment": "Enthusiast",
+  "thumbNailImage": "/TomThumbnail.png",
+  "city": "Seattle",
+  "state": "WA",
+  "county": "king",
+  "gender": "female",
+  "age": "32",
+
+  "sections": [
+    {
+      "title": "personal insights",
+      "cards": [
+        {
+          "header": "Media Preferences",
+          "cardType": "default",
+          "copy": ["% of channels used in the past 120 days"],
+          "bulletCopy": null,
+          "quoteCopy": null,
+          "quoteCopySource": null,
+          "source": null,
+          "largeNumber": null,
+          "largeNumberText": null,
+          "weblinkURL": null,
+          "weblinkHeader": null,
+          "weblinkCopy": null,
+          "weblinkThumbnail": null,
+          "weblinkSource": null,
+          "image": null,
+          "chartType": "MixBarChart",
+          "chartLegendTitle": null,
+          "chartData": [
+            { "name": "Text", "value": 60 },
+            { "name": "YouTube", "value": 69 },
+            { "name": "Broadcast", "value": 49 },
+            { "name": "Social", "value": 43 },
+            { "name": "Podcast", "value": 43 }
+          ]
+        }
+      ]
+    }
+  ]
+}
