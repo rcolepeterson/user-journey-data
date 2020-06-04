@@ -1,13 +1,13 @@
 {
-  "firstName": "Martin",
-  "lastInitial": "N",
-  "segment": "Job Seeker",
+  "firstName": "Robert",
+  "lastInitial": "S",
+  "segment": "Job Loss",
   "profileImage": "/Thumbnail.png",
   "city": "Austin",
   "county": "Hays",
   "state": "TX",
   "gender": "male",
-  "age": 51,
+  "age": 56,
   "sections": [
     {
       "title": "personal insights",
@@ -15,28 +15,58 @@
       "cards": [
         {
           "header": "Data Biography",
+          "cardType": "madlibs",
           "madlibs_text": [
             {
-              "name": "Martin",
-              "segmenttitle": "seeking a job",
+              "name": "Robert",
+              "segmenttitle": "recently unemployed",
               "gender": "man",
-              "age": 51,
+              "age": 56,
               "marital_status": "single",
-              "children": "no children",
+              "children": "three children",
               "dwelling": "a single-family house",
-              "car": "Toyota car",
+              "car": "Honda car",
               "employment": "seeking a job",
               "occupation": "blue collar",
-              "hist_income": "<$15k",
-              "assets": "$25,000-$49,999",
-              "brand1": "Conair",
-              "brand2": "PEZ",
-              "brand3": "Oprah"
+              "hist_income": "$75k-$99.9k",
+              "assets": "$100,000-$249,999",
+              "brand1": "Swatch",
+              "brand2": "Shimano",
+              "brand3": "Quiksilver"
             }
           ]
         },
         {
-          "header": "Media Preferences"
+          "header": "Media Preferences",
+          "cardType": "mediaPreferences",
+          "chartData": [
+            {
+              "name": "Email",
+              "value": 0.6046632124352331
+            },
+            {
+              "name": "Web",
+              "value": 0.2896373056994819
+            },
+            {
+              "name": "Cell",
+              "value": 0.057512953367875645
+            },
+            {
+              "name": "Phone",
+              "value": 0.022797927461139896
+            },
+            {
+              "name": "Text",
+              "value": 0.016580310880829015
+            },
+            {
+              "name": "Mail",
+              "value": 0.008808290155440414
+            }
+          ],
+          "chartType": "MixBarChart",
+          "copy": "Communication Preference in % - Job Loss Segment, Austin, 45 - 59 Years"
         }
       ]
     }
