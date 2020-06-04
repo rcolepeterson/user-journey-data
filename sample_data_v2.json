@@ -14,7 +14,7 @@
       "source": "Wunderman Identity Network",
       "cards": [
         {
-          "header": "Data Biography",
+          "header": "data biography",
           "cardType": "madlibs",
           "madlibs_text": [
             {
@@ -37,7 +37,7 @@
           ]
         },
         {
-          "header": "Media Preferences",
+          "header": "media preferences",
           "cardType": "mediaPreferences",
           "chartData": [
             {
@@ -65,7 +65,7 @@
               "value": 0.008808290155440414
             }
           ],
-          "chartType": "MixBarChart",
+          "chartType": "mixBarChart",
           "copy": "Communication Preference in % - Job Loss Segment, Austin, 45 - 59 Years"
         },
         {
@@ -77,6 +77,52 @@
           ],
           "chartType": "straightAnglePieChart",
           "copy": "Aggregate score for financial optimism from multiple data points."
+        },
+        {
+          "header": "psychographuc clustering",
+          "cardType": "clustering",
+          "chartData": [
+            {
+              "subject": "Watchability",
+              "A": 120,
+              "B": 110,
+              "fullMark": 150
+            },
+            {
+              "subject": "Information",
+              "A": 98,
+              "B": 130,
+              "fullMark": 150
+            },
+            {
+              "subject": "Change",
+              "A": 186,
+              "B": 130,
+              "fullMark": 150
+            },
+            {
+              "subject": "Relevance",
+              "A": 99
+            },
+            {
+              "subject": "Desire",
+              "A": 85,
+              "B": 90,
+              "fullMark": 150
+            },
+            {
+              "subject": "Attention",
+              "A": 165,
+              "B": 185,
+              "fullMark": 150
+            },
+            {
+              "subject": "Likeability",
+              "A": 195
+            }
+          ],
+          "chartType": "radarChart",
+          "copy": "Chart description would go here Matt."
         }
       ]
     }
