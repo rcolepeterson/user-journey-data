@@ -1,0 +1,44 @@
+{
+  "firstName": "Martin",
+  "lastInitial": "N",
+  "segment": "Job Seeker",
+  "profileImage": "/Thumbnail.png",
+  "city": "Austin",
+  "county": "Hays",
+  "state": "TX",
+  "gender": "male",
+  "age": 51,
+  "sections": [
+    {
+      "title": "personal insights",
+      "source": "Wunderman Identity Network",
+      "cards": [
+        {
+          "header": "Data Biography",
+          "madlibs_text": [
+            {
+              "name": "Martin",
+              "segmenttitle": "seeking a job",
+              "gender": "man",
+              "age": 51,
+              "marital_status": "single",
+              "children": "no children",
+              "dwelling": "a single-family house",
+              "car": "Toyota car",
+              "employment": "seeking a job",
+              "occupation": "blue collar",
+              "hist_income": "<$15k",
+              "assets": "$25,000-$49,999",
+              "brand1": "Conair",
+              "brand2": "PEZ",
+              "brand3": "Oprah"
+            }
+          ]
+        },
+        {
+          "header": "Media Preferences"
+        }
+      ]
+    }
+  ]
+}
