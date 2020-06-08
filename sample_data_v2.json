@@ -77,8 +77,8 @@
           "cardType": "financialHealth",
           "source": "Wunderman Identity Network",
           "chartData": [
-            { "name": "Group A", "value": 73 },
-            { "name": "Group B", "value": 27 }
+            { "name": "Group A", "value": 93 },
+            { "name": "Group B", "value": 7 }
           ],
           "chartType": "straightAnglePieChart",
           "copy": "Aggregate score for financial optimism from multiple data points."
