@@ -1,0 +1,170 @@
+{
+    "firstName": "Laura",
+    "lastInitial": "A",
+    "segment": "Job Seeker",
+    "children": "no children",
+    "occupation": "blue collar",
+    "parent_status": "No Children",
+    "marital_status": "Single",
+    "city": "Austin",
+    "county": "Williamson",
+    "state": "TX",
+    "gender": "female",
+    "age": 54,
+    "profileImage": "/Profiles/Female/45to59/female45to59_9.png",
+    "sections": [
+        {
+            "title": "personal insights",
+            "cards": [
+                {
+                    "header": "Data Biography",
+                    "cardType": "madlibs",
+                    "madlibs_text": [
+                        {
+                            "name": "Laura",
+                            "segmenttitle": "unemployed",
+                            "gender": "woman",
+                            "age": 54,
+                            "marital_status": "single",
+                            "children": "no children",
+                            "dwelling": "an apartment",
+                            "car": "Mercury car",
+                            "employment": "seeking a job",
+                            "occupation": "blue collar",
+                            "hist_income": "$20k-$29.9k",
+                            "assets": "<$5,000",
+                            "brand1": "Nikon",
+                            "brand2": "Anne Klein",
+                            "brand3": "Michelin"
+                        }
+                    ],
+                    "source": "Wunderman Identity Network"
+                },
+                {
+                    "header": "Media Preferences",
+                    "cardType": "mediaPreferences",
+                    "source": "Wunderman Identity Network",
+                    "chartData": [
+                        {
+                            "name": "Email",
+                            "value": 47.03947368421053
+                        },
+                        {
+                            "name": "Cell",
+                            "value": 27.302631578947366
+                        },
+                        {
+                            "name": "Web",
+                            "value": 20.394736842105264
+                        },
+                        {
+                            "name": "Mail",
+                            "value": 2.631578947368421
+                        },
+                        {
+                            "name": "Text",
+                            "value": 2.302631578947368
+                        },
+                        {
+                            "name": "Phone",
+                            "value": 0.3289473684210526
+                        }
+                    ],
+                    "chartType": "MixBarChart",
+                    "copy": "Communication Preference in % - Job Seeker Segment, Austin, 45 - 59 Years"
+                },
+                {
+                    "header": "Financial Health",
+                    "cardType": "financialHealth",
+                    "source": "Wunderman Identity Network",
+                    "chartData": [
+                        {
+                            "name": "Financial Optimism",
+                            "value": 13
+                        },
+                        {
+                            "name": "Financial Pessimism",
+                            "value": 87
+                        }
+                    ],
+                    "chartType": "straightAnglePieChart",
+                    "copy": "Financial Health Score"
+                },
+                {
+                    "header": "Psychographic Clustering",
+                    "cardType": "clustering",
+                    "source": "Wunderman Survey, Wunderman Identity Network",
+                    "chartData": [
+                        {
+                            "percent": 35.924369747899156,
+                            "emotion": "anxious",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 36.134453781512605,
+                            "emotion": "cautious",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 19.95798319327731,
+                            "emotion": "overwhelmed",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 13.23529411764706,
+                            "emotion": "sad",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 22.058823529411764,
+                            "emotion": "frustrated",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 16.80672268907563,
+                            "emotion": "confident",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 19.95798319327731,
+                            "emotion": "determined",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 10.294117647058822,
+                            "emotion": "excited",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 23.319327731092436,
+                            "emotion": "optimistic",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 12.184873949579831,
+                            "emotion": "secure",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 28.781512605042014,
+                            "emotion": "hopeful",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 15.546218487394958,
+                            "emotion": "prepared",
+                            "fullMark": 100
+                        },
+                        {
+                            "percent": 8.61344537815126,
+                            "emotion": "angry",
+                            "fullMark": 100
+                        }
+                    ],
+                    "chartType": "radarChart",
+                    "copy": "Percentage of Emotion, Segment Job Seeker, Cluster: 1"
+                }
+            ]
+        }
+    ]
+}
