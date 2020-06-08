@@ -1,0 +1,170 @@
+{
+  "firstName": "James",
+  "lastInitial": "H",
+  "segment": "Job Loss",
+  "children": "three children",
+  "occupation": "blue collar",
+  "parent_status": "Parent",
+  "marital_status": "Single",
+  "profileImage": "/Thumbnail.png",
+  "city": "Austin",
+  "county": "Williamson",
+  "state": "TX",
+  "gender": "male",
+  "age": 47,
+  "sections": [
+    {
+      "title": "personal insights",
+      "cards": [
+        {
+          "header": "Data Biography",
+          "cardType": "madlibs",
+          "madlibs_text": [
+            {
+              "name": "James",
+              "segmenttitle": "recently unemployed",
+              "gender": "man",
+              "age": 47,
+              "marital_status": "single",
+              "children": "three children",
+              "dwelling": "a single-family house",
+              "car": "Nissan car",
+              "employment": "seeking a job",
+              "occupation": "blue collar",
+              "hist_income": "$150k-$199.9k",
+              "assets": "$25,000-$49,999",
+              "brand1": "Shimano",
+              "brand2": "Nintendo",
+              "brand3": "Midas"
+            }
+          ],
+          "source": "Wunderman Identity Network"
+        },
+        {
+          "header": "Media Preferences",
+          "cardType": "mediaPreferences",
+          "source": "Wunderman Identity Network",
+          "chartData": [
+            {
+              "name": "Email",
+              "value": 60.46632124352331
+            },
+            {
+              "name": "Web",
+              "value": 28.963730569948186
+            },
+            {
+              "name": "Cell",
+              "value": 5.751295336787565
+            },
+            {
+              "name": "Phone",
+              "value": 2.2797927461139897
+            },
+            {
+              "name": "Text",
+              "value": 1.6580310880829014
+            },
+            {
+              "name": "Mail",
+              "value": 0.8808290155440414
+            }
+          ],
+          "chartType": "MixBarChart",
+          "copy": "Communication Preference in % - Job Loss Segment, Austin, 45 - 59 Years"
+        },
+        {
+          "header": "Financial Health",
+          "cardType": "financialHealth",
+          "source": "Wunderman Identity Network",
+          "chartData": [
+            {
+              "name": "Financial Optimism",
+              "value": 73
+            },
+            {
+              "name": "Financial Pessimism",
+              "value": 27
+            }
+          ],
+          "chartType": "straightAnglePieChart",
+          "copy": "Financial Health Score"
+        },
+        {
+          "header": "Psychographic Clustering",
+          "cardType": "clustering",
+          "source": "Wunderman Survey, Wunderman Identity Network",
+          "chartData": [
+            {
+              "percent": 35.924369747899156,
+              "emotion": "anxious",
+              "fullMark": 100
+            },
+            {
+              "percent": 36.134453781512605,
+              "emotion": "cautious",
+              "fullMark": 100
+            },
+            {
+              "percent": 19.95798319327731,
+              "emotion": "overwhelmed",
+              "fullMark": 100
+            },
+            {
+              "percent": 13.23529411764706,
+              "emotion": "sad",
+              "fullMark": 100
+            },
+            {
+              "percent": 22.058823529411764,
+              "emotion": "frustrated",
+              "fullMark": 100
+            },
+            {
+              "percent": 16.80672268907563,
+              "emotion": "confident",
+              "fullMark": 100
+            },
+            {
+              "percent": 19.95798319327731,
+              "emotion": "determined",
+              "fullMark": 100
+            },
+            {
+              "percent": 10.294117647058822,
+              "emotion": "excited",
+              "fullMark": 100
+            },
+            {
+              "percent": 23.319327731092436,
+              "emotion": "optimistic",
+              "fullMark": 100
+            },
+            {
+              "percent": 12.184873949579831,
+              "emotion": "secure",
+              "fullMark": 100
+            },
+            {
+              "percent": 28.781512605042014,
+              "emotion": "hopeful",
+              "fullMark": 100
+            },
+            {
+              "percent": 15.546218487394958,
+              "emotion": "prepared",
+              "fullMark": 100
+            },
+            {
+              "percent": 8.61344537815126,
+              "emotion": "angry",
+              "fullMark": 100
+            }
+          ],
+          "chartType": "radarChart",
+          "copy": "Percentage of Emotion, Segment Job Loss, Cluster: 1"
+        }
+      ]
+    }
+  ]
+}
