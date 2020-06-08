@@ -89,42 +89,42 @@
           "source": "Wunderman Identity Network",
           "chartData": [
             {
-              "subject": "Watchability",
-              "A": 120,
-              "B": 110,
+              "emotion": "Watchability",
+              "percent": 120,
+
               "fullMark": 150
             },
             {
-              "subject": "Information",
-              "A": 98,
-              "B": 130,
+              "emotion": "Information",
+              "percent": 98,
+
               "fullMark": 150
             },
             {
-              "subject": "Change",
-              "A": 186,
-              "B": 130,
+              "emotion": "Change",
+              "percent": 186,
+
               "fullMark": 150
             },
             {
-              "subject": "Peterson",
-              "A": 99
+              "emotion": "Peterson",
+              "percent": 99
             },
             {
-              "subject": "Desire",
-              "A": 85,
-              "B": 90,
+              "emotion": "Desire",
+              "percent": 85,
+
               "fullMark": 150
             },
             {
-              "subject": "Attention",
-              "A": 165,
-              "B": 185,
+              "emotion": "Attention",
+              "percent": 165,
+
               "fullMark": 150
             },
             {
-              "subject": "Likeability",
-              "A": 195
+              "emotion": "Likeability",
+              "percent": 195
             }
           ],
           "chartType": "radarChart",
